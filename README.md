@@ -1,5 +1,7 @@
 # Gentelella Rails
 
+**This fork is customized for my personal use only.**
+
 This is mostly an experimental effort to inject the Gentelella theme into Rails assets pipeline.
 
 My goal in building this gem was to learn:
