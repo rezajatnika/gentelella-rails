@@ -22,7 +22,6 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "jquery-rails"
   s.add_runtime_dependency "icheck-rails"
   s.add_runtime_dependency "nprogress-rails"
-  s.add_runtime_dependency "momentjs-rails"
   s.add_runtime_dependency "bootstrap-daterangepicker-rails"
   s.add_runtime_dependency "fastclick-rails"
   s.add_runtime_dependency "chart-js-rails"
